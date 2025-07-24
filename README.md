@@ -4,5 +4,5 @@ Acy the ACM is a bot developed with the discord.py API. Acy serves as NIU ACM's 
 
 ## Planned Features
 
-<p> ICS HuskieHub Implementation to automate posting of Events </p>
-<p> Welcome Message to server </p>
+<p>ICS HuskieHub Implementation to automate posting of Events</p>
+<p>Welcome Message to server</p>
