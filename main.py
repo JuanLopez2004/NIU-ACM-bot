@@ -2,11 +2,11 @@ import discord
 from discord.ext import commands
 import logging
 import os   
-from dotenv import load_dotenv
+from dotenv.main import load_dotenv
 
 ## Load environment variables from .env file
 load_dotenv()
-token = os.getenv('DISCORD_TOKEN')
+token = os.getenv("DISCORD_TOKEN")
 
 ## Intent handling for message content and members
 handler = logging.FileHandler(filename='discord.log', encoding="utf8", mode='w')
